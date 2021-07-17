@@ -1,0 +1,25 @@
+香港電台,#genre#
+港x台電x視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
+港x台電x視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
+港x台電x視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
+奇妙電視,#genre#
+香x港開電x視,https://cdn.hkdtmb.com/hls/77/index.m3u8
+香x港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
+電視廣播,#genre#
+翡x翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡x翠台香港宽频线路,http://61.238.6.49:8000/bysid/1
+翡x翠台荷兰线路,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+翡x翠台珠江宽频,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+翡x翠台(簡/英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
+Jx2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+無綫x新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
+明x珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+明x珠台(粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
+明x珠台(珠江宽频),http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+明x珠台2(珠江宽频),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+無綫x財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
+香港電視娛樂,#genre#
+VxiuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+VxiuTV香港宽频线路,http://61.238.6.49:8000/bysid/96
+VxiuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
+VxiuTV Six香港宽频线路,http://61.238.6.49:8000/bysid/99
