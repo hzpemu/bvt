@@ -43,5 +43,9 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="105" tvg-name="cctv5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png" group-title="[cn] 国内",cctv5
 http://39.135.32.39:6610/000000001000/1000000001000004794/index.m3u8?
+#EXTINF:-1 tvg-id="110" tvg-name="cctv10" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-10_180817.png" group-title="[cn] 国内",cctv10
+http://39.134.19.232:6410/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="8" tvg-name="广东体育" tvg-logo="https://img.gdtv.cn/image/202010/0.20912682116751147121fbecf64d4705c1fOSS1603768039.png" group-title="[cn] 国内",广东体育
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="79" tvg-name="广东珠江" tvg-logo="https://img.gdtv.cn/image/202010/0.738782547490970872c02ffb3f2629ab9OSS1603767838.jpg" group-title="[cn] 国内",广东珠江
+http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=079&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
