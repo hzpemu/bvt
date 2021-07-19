@@ -15,7 +15,7 @@ http://cdn.hkdtmb.com/hls/81/index.m3u8
 http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台荷兰线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台荷兰线路
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:10 tvg-id="81" tvg-name="翡x翠台珠江宽频" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台珠江宽频
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台珠江宽频" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台珠江宽频
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台 (簡/英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台 (簡/英字幕)
 http://cdn.hkdtmb.com/hls/81b/index.m3u8
@@ -27,7 +27,7 @@ http://cdn.hkdtmb.com/hls/83/index.m3u8
 http://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (粵語聲道)
 http://cdn.hkdtmb.com/hls/84b/index.m3u8
-#EXTINF:10 tvg-id="84" tvg-name="明x珠台 (珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (珠江宽频)
+#EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (珠江宽频)
 http://116.199.5.52:8114/hls/Fsv_chan_hls_se_idx=012&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:10 tvg-id="84" tvg-name="明x珠台2(珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台2(珠江宽频)
 http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
