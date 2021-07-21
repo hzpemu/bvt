@@ -41,6 +41,10 @@ http://61.238.6.49:8000/bysid/96
 http://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:10 tvg-id="96" tvg-name="VxiuTV香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV Six香港宽频线路
 http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="hkanime_song" tvg-name="HKanime 粵語動漫音樂台" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",HKanime 粵語動漫音樂台
+http://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
+#EXTINF:-1 tvg-id="hkanime_live" tvg-name="HKanime 粵配動物實況台" tvg-logo="https://hkdtmb.com/png_logo/hkanime_02.png" group-title="[hkanime] hkanime",HKanime 粵配動物實況台
+http://cdn.hkdtmb.com/hls/hkanime_live/index.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="cctv5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png" group-title="[cn] 国内",cctv5
 http://39.135.32.39:6610/000000001000/1000000001000004794/index.m3u8?
 #EXTINF:-1 tvg-id="110" tvg-name="cctv10" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-10_180817.png" group-title="[cn] 国内",cctv10
