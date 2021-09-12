@@ -23,6 +23,8 @@ http://cdn.hkdtmb.com/hls/81b/index.m3u8
 http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台
 http://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台dnsfor" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台dnsfor
+http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台
 http://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (粵語聲道)
