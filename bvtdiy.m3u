@@ -36,9 +36,9 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台chahaoquan.com" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台chahaoquan.com
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台①" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台①
-http://ye23.byethost32.com/dl/tvb.php?id=1
+http://ye23.byethost32.com/dl/tvb.php?id=1.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台②" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台②
-http://ye23.byethost32.com/dl/tvb.php?id=4
+http://ye23.byethost32.com/dl/tvb.php?id=4.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台
