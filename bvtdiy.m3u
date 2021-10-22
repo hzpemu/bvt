@@ -21,16 +21,22 @@ http://198.16.106.61:8278/streams/d/Wlt/playlist.m3u8
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台 (簡/英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台 (簡/英字幕)
 http://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台T" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T
+https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
 http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" group-title="[TVB] 電視廣播",有线x新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台②" group-title="[TVB] 電視廣播",有线x新闻台②
 https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台T" group-title="[TVB] 電視廣播",有线x新闻台T
+https://p2.weizan.cn/1646497941/614105386721937651/live.m3u8
 #EXTINF:-1 tvg-id="331" tvg-name="nowx直播台" group-title="[TVB] 電視廣播",nowx直播台
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台
 http://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台T" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台T
+https://p2.weizan.cn/1646497941/113158785015619765/live.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台dnsfor" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台dnsfor
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台chahaoquan.com" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台chahaoquan.com
@@ -43,6 +49,8 @@ http://ye23.byethost32.com/dl/tvb.php?id=4.m3u8
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明x珠台T" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台T
+https://p2.weizan.cn/1646497941/583790710723181991/live.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (粵語聲道)
 http://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (珠江宽频)
