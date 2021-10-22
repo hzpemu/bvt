@@ -23,6 +23,8 @@ http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fs
 http://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台T" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T
 https://p2.weizan.cn/1646497941/173900819035303676/live.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台TH" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台TH
+https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
 http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" group-title="[TVB] 電視廣播",有线x新闻台
