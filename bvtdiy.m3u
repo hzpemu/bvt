@@ -29,6 +29,8 @@ https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台126" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
 http://flv3948069e.live.126.net/live/hodttf42922498/3.flv
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
+https://r2.weizan.cn/v/1646497941_785550388083198213.flv
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台②" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台②
