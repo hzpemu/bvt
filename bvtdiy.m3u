@@ -27,9 +27,9 @@ https://p2.weizan.cn/1646497941/712785126593746681/live.m3u8
 https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
 http://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台126" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台126" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台126
 http://flv3948069e.live.126.net/live/hodttf42922498/3.flv
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T
 https://r2.weizan.cn/v/1646497941_785550388083198213.flv
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
 https://api.leonardpark.dev/live/icable/109
@@ -49,7 +49,7 @@ http://livetv.dnsfor.me/channel.10.m3u8
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台①" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台①
 http://ye23.byethost32.com/dl/tvb.php?id=1.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台②126" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台②
+#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台②126" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台②126
 http://v3948069e.live.126.net:80/live/hod900.flv
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③
 http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
