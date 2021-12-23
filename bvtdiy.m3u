@@ -13,10 +13,10 @@ http://cdn.hkdtmb.com/hls/76/index.m3u8
 http://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港宽频线路
 http://61.238.6.49:8000/bysid/1
-#EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港②F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:10 tvg-id="81" tvg-name="翡x翠台②F华丽" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F华丽
+http://iptv.tvfix.org/hls/jadenhk2.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F
-http://124.238.99.44:808/hls/354/index.m3u8
+http://iptv.tvfix.org/hls/jade_a1.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台珠江宽频" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台珠江宽频
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台 (簡/英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台 (簡/英字幕)
@@ -31,6 +31,8 @@ http://cdn.hkdtmb.com/hls/82/index.m3u8
 http://flv3948069e.live.126.net/live/hodttf42922498/3.flv
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T
 http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台tvfix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T2
+http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台②" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台②
@@ -51,8 +53,8 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 http://ye23.byethost32.com/dl/tvb.php?id=1.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台②126" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台②126
 http://v3948069e.live.126.net:80/live/hod900.flv
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③
-http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③tvfix" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③
+http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台f
 http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台2f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台2f
