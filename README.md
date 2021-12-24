@@ -1,8 +1,8 @@
 # bvt
 worry-free
 
-如果你觉得我的信息对你有帮助，可以通过支付宝或paypal扫码支持我，谢谢！
-if my info helpful for you ,maybe scan below Qr code through the Alipay or paypal support me, thanks!
+如果你觉得我的信息对你有帮助，可以通过支付宝/微信或paypal扫码支持我，谢谢！
+if my info helpful for you ,maybe scan below Qr code through the Alipay/WeChat or paypal support me, thanks!
 
 ![Image text](https://firebasestorage.googleapis.com/v0/b/testfirebase-a517c.appspot.com/o/alipay%E6%94%B6%E6%AC%BE%E7%A0%81mini20190507.jpg?alt=media&token=c304ee4c-2021-456e-bb05-530656880afd)
 
