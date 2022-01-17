@@ -11,8 +11,8 @@ http://cdn.hkdtmb.com/hls/77/index.m3u8
 http://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台
 http://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港宽频线路220104rtmp
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH3/3
+#EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港宽频线路220117-50.7
+http://50.7.92.74:8278/jade1_twn/playlist.m3u8
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台②F华丽" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F华丽211228
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F211228
@@ -23,14 +23,14 @@ http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 http://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台T" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T华丽220113rtmp
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台TH" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台TH
-https://edge6a.v2h-cdn.com/RE_HD/TVB_HD.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台TH" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台220117-50.7
+http://50.7.92.74:8278/jade_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
 http://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台126" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台126220104
 rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T
-http://anan.jxin122.top/cj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台220117-50.7
+http://50.7.92.74:8278/j2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T2211228
 http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
@@ -43,8 +43,8 @@ rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
 https://api.leonardpark.dev/live/now/331
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台
 http://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台T" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台T
-http://anan.jxin122.top/cj.php?id=73&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
+#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台T" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台220117-50.7
+http://50.7.92.74:8278/inews_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台dnsfor" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台dnsfor
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台chahaoquan.com" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台chahaoquan.com
