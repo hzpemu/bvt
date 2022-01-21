@@ -33,6 +33,8 @@ rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
 http://50.7.92.74:8278/j2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T2211228
 http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台dnsfor
+http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台②" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台②
