@@ -11,6 +11,8 @@ http://cdn.hkdtmb.com/hls/77/index.m3u8
 http://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台
 http://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台dnsfor
+http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港宽频线路220117-50.7
 http://50.7.92.74:8278/jade1_twn/playlist.m3u8
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台②F华丽" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F华丽211228
@@ -33,6 +35,8 @@ rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
 http://50.7.92.74:8278/j2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T2211228
 http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台dnsfor
+http://livetv.dnsfor.me:80/channel.19.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台dnsfor
 http://livetv.dnsfor.me/channel.5.m3u8
 #EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
@@ -83,6 +87,8 @@ http://cdn.hkdtmb.com/hls/96/index.m3u8
 http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
 #EXTINF:10 tvg-id="96" tvg-name="VxiuTV香港线路" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV香港线路
 http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+#EXTINF:10 tvg-id="96" tvg-name="VxiuTV香港线路" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTVdnsfor
+http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:-1 tvg-id="hkanime_HBO原創電影HD" tvg-name="HBO原創電影HD" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",HBO原創電影HD
 http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 #EXTINF:-1 tvg-id="hkanime_WWE" tvg-name="WWE" tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg" group-title="[hkanime] hkanime",WWE
