@@ -1,108 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="31" tvg-name="港x台電x視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港x台電x視31
-http://cdn.hkdtmb.com/hls/31/index.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港x台電x視32" tvg-logo="https://www.hkdtmb.com/png_logo/32.png" group-title="[RTHK] 香港電台",港x台電x視32
-http://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港x台電x視33" tvg-logo="https://www.hkdtmb.com/png_logo/33.png" group-title="[RTHK] 香港電台",港x台電x視33
-http://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香x港開電視" tvg-logo="https://www.hkdtmb.com/png_logo/77.png" group-title="[Fan] 奇妙電視",香x港開電x視
-http://cdn.hkdtmb.com/hls/77/index.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="香x港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" group-title="[Fan] 奇妙電視",香x港國際財經台
-http://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台
-http://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台dnsfor
-http://livetv.dnsfor.me:80/channel.18.m3u8
-#EXTINF:10 tvg-id="81" tvg-name="翡x翠台香港宽频线路" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港宽频线路220117-50.7
-http://50.7.92.74:8278/jade1_twn/playlist.m3u8
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台②F华丽" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F华丽211228
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F211228
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台珠江宽频" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台珠江宽频
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=188&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台 (簡/英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台 (簡/英字幕)
-http://cdn.hkdtmb.com/hls/81b/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台T" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T华丽220113rtmp
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH6/6
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台TH" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台220117-50.7
-http://50.7.92.74:8278/jade_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台
-http://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台126" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台126220104
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH4/4
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台T" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台220117-50.7
-http://50.7.92.74:8278/j2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台T2211228
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台dnsfor
-http://livetv.dnsfor.me:80/channel.19.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台dnsfor
-http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台②" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台②
-https://www.navchina.cf/IPTV/icable.php?id=37
-#EXTINF:-1 tvg-id="109" tvg-name="有线x新闻台T" tvg-logo="http://cablenews.i-cable.com/ci/images/logo.svg" group-title="[TVB] 電視廣播",有线x新闻台T211228
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH146/146
-#EXTINF:-1 tvg-id="331" tvg-name="nowx直播台" tvg-logo="https://www.news.now.com/revamp2014/images/logo.png" group-title="[TVB] 電視廣播",nowx直播台
-https://api.leonardpark.dev/live/now/331
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台
-http://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台T" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台220117-50.7
-http://50.7.92.74:8278/inews_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台dnsfor" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台dnsfor
-http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台chahaoquan.com" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台chahaoquan.com
-http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台①" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台①
-http://ye23.byethost32.com/dl/tvb.php?id=1.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台②126" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台②126211228
-rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH14/14
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③211228
 http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明x珠台f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台f
-http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台2f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台2f211228
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明x珠台T" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台T220117-50.7
-http://50.7.92.74:8278/pearl_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (粵語聲道)
-http://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (珠江宽频)
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=012&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 #EXTINF:10 tvg-id="84" tvg-name="明x珠台2(珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台2(珠江宽频)
 http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫x財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫x財經·資訊台
-http://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="瞬间看地球" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",瞬间看地球211228
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="VxiuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV
-http://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:10 tvg-id="99" tvg-name="VxiuTV香港宽频线路tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV211228
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="VxiuTV" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV
-http://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:10 tvg-id="96" tvg-name="VxiuTV126" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV126
-http://v3948069e.live.126.net/live/ooadaaihygy854184.flv
-#EXTINF:10 tvg-id="96" tvg-name="VxiuTV香港线路" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV香港线路
-http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-#EXTINF:10 tvg-id="96" tvg-name="VxiuTV香港线路" tvg-logo="https://www.hkdtmb.com/png_logo/96.png" group-title="[Vxiu] 香港電視娛樂",VxiuTVdnsfor
-http://livetv.dnsfor.me:80/channel.20.m3u8
-#EXTINF:-1 tvg-id="hkanime_HBO原創電影HD" tvg-name="HBO原創電影HD" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",HBO原創電影HD
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_WWE" tvg-name="WWE" tvg-logo="https://www.wwe.com/a/i/wwe_logo.svg" group-title="[hkanime] hkanime",WWE
-http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_Disney ChannelHD" tvg-name="Disney ChannelHD" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",Disney ChannelHD
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_Disney JuniorHD" tvg-name="Disney JuniorHD" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",Disney JuniorHD
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_Baby TV EngHD" tvg-name="Baby TV EngHD" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",Baby TV EngHD
-http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_Kids TV" tvg-name="Kids TV" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",Kids TV
-http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-#EXTINF:-1 tvg-id="hkanime_song" tvg-name="HKanime 粵語動漫音樂台" tvg-logo="https://hkdtmb.com/png_logo/hkanime_01.png" group-title="[hkanime] hkanime",HKanime 粵語動漫音樂台
-http://cdn.hkdtmb.com/hls/hkanime_song/index.m3u8
 #EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-name="NHKChineseVision.jp" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="[jp] News",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="cctv5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png" group-title="[cn] 国内",cctv5
