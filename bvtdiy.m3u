@@ -27,8 +27,8 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://iptv.tvfix.org/hls/earth.m3u8
 #EXTINF:10 tvg-id="99" tvg-name="VxiuTV香港宽频线路tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Vxiu] 香港電視娛樂",VxiuTV211228
 http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:10 tvg-id="99" tvg-name="VxiuTV香港宽频线路tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Vxiu] 香港電視娛樂",VxiuTVT220128
-http://212.95.133.2/tv/js.php?id=15
+#EXTINF:10 tvg-id="99" tvg-name="VxiuTV香港宽频线路tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Vxiu] 香港電視娛樂",VxiuTVhkyoutv
+https://cdn.hkyoutv.com/raw/99.ts
 #EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-name="NHKChineseVision.jp" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="[jp] News",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1 tvg-id="105" tvg-name="cctv5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png" group-title="[cn] 国内",cctv5
