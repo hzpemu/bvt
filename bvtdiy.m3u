@@ -3,8 +3,6 @@
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F211228
 http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F220312
-rtmp://v3948069e.live.126.net/live/5b1409db0002d188b24e73a/xgg
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台hkyoutv
 https://cdn.hkyoutv.com/raw/81.ts
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台hklive.tv
