@@ -3,6 +3,8 @@
 http://iptv.tvfix.org/hls/jadenhk.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F211228
 http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T220402
+http://113.64.147.183:808/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台hkyoutv
 https://cdn.hkyoutv.com/raw/81.ts
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台hklive.tv
@@ -29,6 +31,8 @@ https://cdn.hkyoutv.com/hls/83/index.m3u8
 https://cdn.hklive.tv/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台2f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台2f211228
 http://iptv.tvfix.org/hls/pearl2.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明x珠台2f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台T220402
+http://113.64.147.183:808/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台2f" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台hkyoutv
 https://cdn.hkyoutv.com/raw/84.ts
 #EXTINF:-1 tvg-id="84" tvg-name="明x珠台 (珠江宽频)" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明x珠台 (珠江宽频)720
