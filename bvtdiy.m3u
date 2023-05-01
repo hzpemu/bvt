@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:10 tvg-id="81" tvg-name="翡x翠台②F华丽" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台香港②F华丽211228
-http://iptv.tvfix.org/hls/jadenhk.m3u8
+http://live.tvfix.org/hls/jadehk_v.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台F211228
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡x翠台F" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡x翠台T220402
@@ -20,7 +20,7 @@ http://iptv.tvfix.org/hls/j2.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="Jx2台tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",Jx2台hkyoutv
 https://cdn.hkyoutv.com/raw/82.ts
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③211228
-http://iptv.tvfix.org/hls/inews.m3u8
+http://live.tvfix.org/hls/inews_v.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③230501
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="83" tvg-name="無綫x新聞台③tv-fix" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫x新聞台③hkyoutv
