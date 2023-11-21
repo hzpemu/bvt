@@ -1,25 +1,33 @@
-香港電台,#genre#
-港x台電x視31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-港x台電x視32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-港x台電x視33,https://cdn.hkdtmb.com/hls/33/index.m3u8
-奇妙電視,#genre#
-香x港開電x視,https://cdn.hkdtmb.com/hls/77/index.m3u8
-香x港國際財經台,https://cdn.hkdtmb.com/hls/76/index.m3u8
-電視廣播,#genre#
-翡x翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
-翡x翠台香港宽频线路,http://61.238.6.49:8000/bysid/1
-翡x翠台荷兰线路,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-翡x翠台珠江宽频,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-翡x翠台(簡/英字幕),https://cdn.hkdtmb.com/hls/81b/index.m3u8
-Jx2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
-無綫x新聞台,https://cdn.hkdtmb.com/hls/83/index.m3u8
-明x珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
-明x珠台(粵語聲道),https://cdn.hkdtmb.com/hls/84b/index.m3u8
-明x珠台(珠江宽频),http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-明x珠台2(珠江宽频),http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-無綫x財經·資訊台,https://cdn.hkdtmb.com/hls/85/index.m3u8
-香港電視娛樂,#genre#
-VxiuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
-VxiuTV香港宽频线路,http://61.238.6.49:8000/bysid/96
-VxiuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8
-VxiuTV Six香港宽频线路,http://61.238.6.49:8000/bysid/99
+港澳,#genre#
+珠江,https://ip4024712375.mobgslb.tbcache.com/tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=1ba8ced19b42c379e61a646d7f43ad24-JGafYuCsEQ1zCHsN7d7rm%2BMv3wc0d6UcjZoFodk9ovFySK4rRa%2BQGrNg0EtNLA7klnwy8o1DnfKRv92SFxrXIy7NkVZZJs3ZPCCfo21o7KpYYdo0pHbS5bw72PF1D2ye6INZHPyGnxEbqs6OPwl%2BN3gaKBqJBbL8%2BA6FtCyqaWxvprE6zpez7QoP4WUH6nixFDygn6WbfrFLkSUaA7zeJ9H43nsrf4zrlg9KFZl6NFJez9L4YIKWOk9oAT7cxD1%2FP89DQCP12Xa78r%2BUAj8FNr%2B6V%2BcIPNfMN5rNutG1eEIYnQKRHJdbiqqvdAqRCJ163Sgd6l6uMa4IMHVfNJ0d9XJ8QKM7toEAz7LxyPM2hxGtP4rQYpsvTS1HtppEMODD
+凤凰中文,https://0472.org/hls/fhzw.m3u8
+翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
+明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=231110
+星空卫视,https://pi.0472.org/tv/startv.php?auth=231110
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231110
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲花卫视,https://cntv.lat/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+央视,#genre#
+CCTV-1 综合,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
+CCTV-2 财经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
+CCTV-3 综艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
+CCTV-4 中文国际,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
+CCTV-5 体育,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5HD
+CCTV-5+ 体育赛事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5SportHD
+CCTV-6 电影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
+CCTV-7 国防军事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
+CCTV-8 电视剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
+CCTV-9 纪录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
+CCTV-10 科教,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
+CCTV-11 戏曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
+CCTV-12 社会与法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
+CCTV-13 新闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
+CCTV-14 少儿,https://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
+CCTV-15 音乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
+CCTV-16 奥林匹克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
+CCTV-17 农业农村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
+CCTV-4K 超高清,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
+CCTV-16 奥林匹克 4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
