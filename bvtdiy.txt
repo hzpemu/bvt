@@ -1,5 +1,5 @@
 港x澳,#genre#
-CCxTxV-10 科教2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCxTxV-10 科教2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=4
 珠x江,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=4
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231110
@@ -28,7 +28,7 @@ CxCTxV-6 电x影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
 CxCTxV-7 国x防x军x事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
 CxCTxV-8 电x视x剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
 CxCTxV-9 纪x录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
-CxCTxV-10 科x教,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=4
+CxCTxV-10 科x教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CxCTxV-11 戏x曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
 CxCTxV-12 社x会与x法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
 CxCTxV-13 新x闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
