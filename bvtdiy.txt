@@ -1,5 +1,5 @@
 港澳,#genre#
-CCTV-10 科教2,https://tv.iill.top/bestv/cctv10
+CCTV-10 科教2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
 翡翠台2,http://r.jdshipin.com/qClQf
