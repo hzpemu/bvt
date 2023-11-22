@@ -25,7 +25,6 @@ CCTV-7 国防军事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
 CCTV-8 电视剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
 CCTV-9 纪录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
 CCTV-10 科教,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
-
 CCTV-11 戏曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
 CCTV-12 社会与法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
 CCTV-13 新闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
