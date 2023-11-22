@@ -1,37 +1,37 @@
-港澳,#genre#
-CCTV-10 科教2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231110
-翡翠台2,http://r.jdshipin.com/qClQf
-翡翠台3,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-无线新闻,https://tv.iill.top/tvb/4
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231110
-凤凰中文,https://0472.org/hls/fhzw.m3u8
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231110
-星空卫视,https://pi.0472.org/tv/startv.php?auth=231110
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231110
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.lat/tv/lhws.php
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+港x澳,#genre#
+CCxTxV-10 科教2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+珠x江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+翡x翠x台,https://pi.0472.org/tv/fct.php?auth=231110
+翡x翠x台2,http://r.jdshipin.com/qClQf
+翡x翠x台3,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+无x线x新x闻,https://tv.iill.top/tvb/4
+明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231110
+凤x凰x中x文,https://0472.org/hls/fhzw.m3u8
+澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
+星x空x卫x视,https://pi.0472.org/tv/startv.php?auth=231110
+澳x亚x卫x视,https://pi.0472.org/tv/aoya.php?auth=231110
+耀x才x财x经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+香x港x卫x视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲x花x卫x视,https://cntv.lat/tv/lhws.php
+人x间x卫x视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 央视,#genre#
-CCTV-1 综合,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
-CCTV-2 财经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
-CCTV-3 综艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
-CCTV-4 中文国际,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
-CCTV-5 体育,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5HD
-CCTV-5+ 体育赛事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5SportHD
-CCTV-6 电影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
-CCTV-7 国防军事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
-CCTV-8 电视剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
-CCTV-9 纪录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
-CCTV-10 科教,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
-CCTV-11 戏曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
-CCTV-12 社会与法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
-CCTV-13 新闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
-CCTV-14 少儿,https://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
-CCTV-15 音乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
-CCTV-16 奥林匹克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
-CCTV-17 农业农村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
-CCTV-4K 超高清,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
-CCTV-16 奥林匹克 4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
+CxCTxV-1 综x合,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv1HD
+CxCTxV-2 财x经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
+CxCTxV-3 综x艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
+CxCTxV-4 中x文国x际,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
+CxCTxV-5 体x育,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5HD
+CxCTxV-5+ 体x育x赛事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv5SportHD
+CxCTxV-6 电x影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
+CxCTxV-7 国x防x军x事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
+CxCTxV-8 电x视x剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
+CxCTxV-9 纪x录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
+CxCTxV-10 科x教,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv10HD
+CxCTxV-11 戏x曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
+CxCTxV-12 社x会与x法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
+CxCTxV-13 新x闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
+CxCTxV-14 少x儿,https://cntv.lat/tv/cctv.php?auth=231110&id=cctvseHD
+CxCTxV-15 音x乐,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv15HD
+CxCTxV-16 奥x林匹x克,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv16HD
+CxCTxV-17 农x业农x村,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv17HD
+CxCTxV-4K 超x高x清,https://cntv.lat/tv/live.php?auth=231110&id=CCTV4K
+CxCTxV-16 奥x林匹x克 4K,https://cntv.lat/tv/live.php?auth=231110&id=CCTV16_4K
