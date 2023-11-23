@@ -28,7 +28,7 @@ CxCTxV-6 电x影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
 CxCTxV-7 国x防x军x事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
 CxCTxV-8 电x视x剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
 CxCTxV-9 纪x录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
-CxCTxV-10 科x教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CxCTxV-10 科x教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CxCTxV-11 戏x曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
 CxCTxV-12 社x会与x法,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv12HD
 CxCTxV-13 新x闻,https://cntv.lat/tv/cctv.php?auth=231110&id=CCTVNewsHD
