@@ -8,7 +8,7 @@ CCxTxV-10 科教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenli
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0
 无x线x新x闻2,https://tv.iill.top/tvb/4
-明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231110
+明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231122
 凤x凰x中x文,https://0472.org/hls/fhzw.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
 星x空x卫x视,https://pi.0472.org/tv/startv.php?auth=231110
