@@ -1,5 +1,5 @@
 港x澳,#genre#
-CCxTxV-10 科教2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=4
+CCxTxV-10 科教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=4
 珠x江,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=4
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231110
