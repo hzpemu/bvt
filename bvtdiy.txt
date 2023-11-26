@@ -3,11 +3,12 @@ CCxTxV-10 科教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenli
 珠x江,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=4
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231122
-翡x翠x台2,http://r.jdshipin.com/qClQf
-翡x翠x台3,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡x翠x台2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+翡x翠x台3,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0
 无x线x新x闻2,https://tv.iill.top/tvb/4
+JX2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231122
 凤x凰x中x文,https://0472.org/hls/fhzw.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
