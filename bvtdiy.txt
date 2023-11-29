@@ -5,10 +5,13 @@ CCxTxV-10 科教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenli
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231122
 翡x翠x台2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 翡x翠x台3,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0
 无x线x新x闻2,https://tv.iill.top/tvb/4
+无x线x新x闻4sl,https://sc2022.stream-link.org/tv2306.php?id=h06
 JX2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231122
 凤x凰x中x文,https://0472.org/hls/fhzw.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
