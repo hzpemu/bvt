@@ -6,6 +6,7 @@ CCxTxV-10 科教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenli
 翡x翠x台2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
 翡x翠x台3,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
+翡x翠x台5mi,mitv://generationnexxxt.com:19806/937ed43f35d745cfa66a9ef7924b9eae
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0
 无x线x新x闻2,https://tv.iill.top/tvb/4
