@@ -28,6 +28,7 @@ CxCTxV-2 财x经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
 CxCTxV-3 综x艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
 CxCTxV-4 中x文国x际,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
 CxCTxV-5 体x育cm,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CxCTxV-5 体x育cm2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CxCTxV-5 体x育cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=1000000001000004794&livemode=1&stbId=4
 CxCTxV-5+ 体x育x赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CxCTxV-6 电x影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
