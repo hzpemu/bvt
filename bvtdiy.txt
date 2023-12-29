@@ -1,5 +1,6 @@
 港x澳,#genre#
 CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+珠x江t,http://r.jdshipin.com/sE5vO
 珠x江cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=4
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231122
