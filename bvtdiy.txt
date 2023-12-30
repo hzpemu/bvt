@@ -4,7 +4,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 珠x江cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=4
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡x翠x台1,https://pi.0472.org/tv/fct.php?auth=231122
-翡x翠x台2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+翡x翠x台2,http://r.jdshipin.com/62WM7
 翡x翠x台3,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
