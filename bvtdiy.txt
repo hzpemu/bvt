@@ -20,8 +20,8 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 JX2,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 明x珠x台,https://pi.0472.org/tv/mzt.php?auth=231122
-凤x凰x资x讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤x凰x中x文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤x凰x资x讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤x凰x中x文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 熊x猫x频x道 2x4xHx直x播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
 星x空x卫x视,https://pi.0472.org/tv/startv.php?auth=231110
