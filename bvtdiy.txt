@@ -32,18 +32,20 @@ JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 人x间x卫x视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 央x视,#genre#
 CxCTxV-1 综x合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
+CxCTxV-1 综x合cm9,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CxCTxV-2 财x经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
 CxCTxV-3 综x艺,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv3HD
 CxCTxV-4 中x文国x际,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv4HD
 CxCTxV-5 体x育cm,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CxCTxV-5 体x育cm2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CxCTxV-5 体x育cm9,http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
 CxCTxV-5 体x育cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000001000004794&livemode=1&stbId=4
 CxCTxV-5+ 体x育x赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CxCTxV-6 电x影,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv6HD
 CxCTxV-7 国x防x军x事,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv7HD
 CxCTxV-8 电x视x剧,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv8HD
 CxCTxV-9 纪x录,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv9HD
-CxCTxV-10 科x教cq,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
+CxCTxV-10 科x教cm9,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
 CxCTxV-10 科x教mg,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
 CCxTxV-10 科x教cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000001000026367&livemode=1&stbId=4
 CxCTxV-11 戏x曲,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv11HD
