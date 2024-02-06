@@ -14,7 +14,10 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 翡x翠x台6,http://sz.l68.fun:9000/bysid/1
 翡x翠x台7,http://bziyunshao.synology.me:8889/bysid/1
 翡x翠x台8,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-华x丽x台6,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+翡x翠x台9,https://epg.pw/stream/20b42e6b167a2a4386a5bce67c7a13a332ac05654a22406a18bb77941e966a1c.ctv
+翡x翠x台10,https://epg.pw/stream/eb817f78dd83c90f733231ea660a9d5c4d04948547ca8900959546e3a8b5fc6f.ctv
+华x丽x台1,mitv://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+华x丽x台2,https://epg.pw/stream/7f1ceee87aff62eb8a0680c34f3676fce9ed52bf39ae0aa2b7a3a2d542290719.ctv
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0
 无x线x新x闻1f,http://live.cooltv.top/tv/tvb.php?id=1
