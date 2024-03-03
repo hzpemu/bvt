@@ -52,6 +52,8 @@ VxixuxTxV,https://live.hkdvb.com/hls/live/99.m3u8?token=578486041280643
 莲x花x卫x视,https://cntv.lat/tv/lhws.php
 人x间x卫x视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 央x视,#genre#
+浙x江x卫x视 综x合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
+湖x南x卫x视 综x合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3
 CxCTxV-1 综x合,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
 CxCTxV-1 综x合cm9,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
 CxCTxV-2 财x经,https://cntv.lat/tv/cctv.php?auth=231110&id=cctv2HD
