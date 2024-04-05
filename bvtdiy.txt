@@ -2,6 +2,7 @@
 CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 珠x江cm,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 珠x江cm2,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+珠x江cm3,http://[2409:8087:7001:20:1000::20]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 珠x江t,https://php.17186.eu.org/gdtv/gdzj.m3u8
 珠x江cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=4
 珠x江t2,http://gslbserv.itv.cmvideo.cn:80/2000000003000000033/index.m3u8?channel-id=FifastbLive&Contentid=2000000003000000033&livemode=1&stbId=3
