@@ -67,7 +67,7 @@ VxixuxTxV2p2p,p2p://108.181.32.169:12302/5fed3234000c7a49a57dbd6e14af358f
 央x视,#genre#
 浙x江x卫x视 综x合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙x江x卫x视 综x合1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
-浙x江x卫x视 综x合2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226199/index.m3u8
+浙x江x卫x视 综x合2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 浙x江x卫x视 综x合3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 浙x江x卫x视 综x合4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙x江x卫x视 综x合5,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
