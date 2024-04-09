@@ -9,6 +9,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 珠x江cm7,http://ci.emdoor.tech:8080/touchtv.php?pk=1183
 珠x江cm8,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 珠x江t,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+珠x江t5,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
 珠x江cmv,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=4
 珠x江t2,https://php.17186.eu.org/gdtv/gdzj.m3u8
 珠x江t3,http://gslbserv.itv.cmvideo.cn:80/1000000004000011655/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=3
