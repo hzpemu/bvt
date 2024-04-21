@@ -55,8 +55,8 @@ JX2-4,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbz
 明x珠x台2,https://live.hkdvb.com/hls/live/84.m3u8?token=578486041293071
 VxixuxTxV,https://live.hkdvb.com/hls/live/99.m3u8?token=578486041293071
 VxixuxTxV2p2p,p2p://108.181.32.169:12302/5fed3234000c7a49a57dbd6e14af358f
-凤x凰x资x讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤x凰x中x文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤x凰x资x讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤x凰x中x文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 熊x猫x频x道 2x4xHx直x播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
 星x空x卫x视,https://pi.0472.org/tv/startv.php?auth=231110
