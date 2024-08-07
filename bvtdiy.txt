@@ -40,12 +40,12 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 无x线x新x闻4sl,https://sc2022.stream-link.org/tv2306.php?id=h06
 无x线x新x闻6,http://live.cooltv.top/tv/tvb.php?id=6
 无x线x新x闻7,http://bziyunshao.synology.me:8890/bysid/83
-无x线x新x闻8p2p,p2p://108.181.32.169:12302/653e4818000b73240c7d19181340415e
+无x线x新x闻8p2p,P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 无x线x新x闻9dvb,https://live.hkdvb.com/hls/live/83.m3u8?token=578486041225019
 无x线x新x闻10,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 JX2m-i-t-v,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 JX2p2p,p2p://108.181.32.169:12302/653e4d3e000b344f0c91357e73163f82
-JX2-1,http://sz.l68.fun:9001/bysid/82
+JX2-1,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 JX2-2,http://bziyunshao.synology.me:8890/bysid/82
 JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 JX2-3dvb,https://live.hkdvb.com/hls/live/82.m3u8?token=578486041225019
