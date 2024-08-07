@@ -16,7 +16,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 珠x江t4,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大x湾x区x卫x视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
 翡x翠x台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-翡x翠x台1,http://r.jdshipin.com/qClQf
+翡x翠x台1,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡x翠x台2w,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 翡x翠x台3,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
