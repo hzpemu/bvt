@@ -56,6 +56,7 @@ JX2-4,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbz
 明x珠x台2dvb,https://live.hkdvb.com/hls/live/84.m3u8?token=578486041225019
 VxixuxTxVdvb,https://live.hkdvb.com/hls/live/99.m3u8?token=578486041225019
 VxixuxTxV2p2p,p2p://108.181.32.169:12302/5fed3234000c7a49a57dbd6e14af358f
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 凤x凰x资x讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤x凰x中x文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 熊x猫x频x道 2x4xHx直x播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
