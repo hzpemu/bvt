@@ -51,7 +51,7 @@ JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 JX2-3dvb,https://live.hkdvb.com/hls/live/82.m3u8?token=578486041225019
 JX2-4,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 明x珠x台m-i-t-v,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
-明x珠x台,http://bziyunshao.synology.me:8890/bysid/2
+明x珠x台,http://bziyunshao.synology.me:8890/bysid/2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明x珠x台1,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 明x珠x台2dvb,https://live.hkdvb.com/hls/live/84.m3u8?token=578486041225019
 VxixuxTxVdvb,https://live.hkdvb.com/hls/live/99.m3u8?token=578486041225019
