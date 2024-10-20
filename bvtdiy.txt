@@ -20,7 +20,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 翡x翠x台2w,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
 翡x翠x台3,https://tv.iill.top/MyTV/J#https://tv.iill.top/MyTV/JUHD#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
-翡x翠x台5,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+翡x翠x台5,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8#http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡x翠x台6,http://sz.l68.fun:9000/bysid/1
 翡x翠x台7,http://bziyunshao.synology.me:8889/bysid/1
 翡x翠x台8,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
@@ -31,7 +31,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 华x丽x台1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华x丽x台2,https://epg.pw/stream/7f1ceee87aff62eb8a0680c34f3676fce9ed52bf39ae0aa2b7a3a2d542290719.ctv
 华x丽x台Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
-无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无x线x新x闻,https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无x线x新x闻1f,http://live.cooltv.top/tv/tvb.php?id=0&sd
 无x线x新x闻2,http://live.cooltv.top/tv/tvb.php?id=1
@@ -48,7 +48,7 @@ JX2p2p,p2p://108.181.32.169:12302/653e4d3e000b344f0c91357e73163f82
 JX2-1,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 JX2-2dvb,https://live.hkdvb.com/hls/live/82.m3u8?token=578486041282063
 JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
-JX2-3,https://tv.iill.top/MyTV/B#http://bziyunshao.synology.me:8890/bysid/82
+JX2-3,https://tv.iill.top/MyTV/B#https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8#http://bziyunshao.synology.me:8890/bysid/82
 JX2-4,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 明x珠x台m-i-t-v,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 明x珠x台,http://bziyunshao.synology.me:8890/bysid/2#http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
