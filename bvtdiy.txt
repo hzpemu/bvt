@@ -18,7 +18,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 翡x翠x台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡x翠x台1,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡x翠x台2w,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
-翡x翠x台3,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡x翠x台3,https://tv.iill.top/MyTV/J#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡x翠x台5,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡x翠x台6,http://sz.l68.fun:9000/bysid/1
@@ -34,7 +34,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 无x线x新x闻,https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
 无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无x线x新x闻1f,http://live.cooltv.top/tv/tvb.php?id=0&sd
-无x线x新x闻2,https://tv.iill.top/tvb/4
+无x线x新x闻2,https://tv.iill.top/MyTV/C#https://tv.iill.top/tvb/4
 无x线x新x闻3,http://live.cooltv.top/tv/tvb.php?id=1
 无x线x新x闻5,http://58.176.4.57:8800/play/a00d
 无x线x新x闻4sl,https://sc2022.stream-link.org/tv2306.php?id=h06
@@ -46,7 +46,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 JX2m-i-t-v,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 JX2p2p,p2p://108.181.32.169:12302/653e4d3e000b344f0c91357e73163f82
 JX2-1,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
-JX2-2,http://bziyunshao.synology.me:8890/bysid/82
+JX2-2,https://tv.iill.top/MyTV/B#http://bziyunshao.synology.me:8890/bysid/82
 JX2sl,https://sc2022.stream-link.org/tv2306.php?id=h03
 JX2-3dvb,https://live.hkdvb.com/hls/live/82.m3u8?token=578486041282063
 JX2-4,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -58,7 +58,7 @@ VxixuxTxVdvb,https://live.hkdvb.com/hls/live/99.m3u8?token=578486041282063
 VxixuxTxV2p2p,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 凤x凰x资x讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤x凰x中x文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤x凰x中x文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#https://tv.iill.top/MyTV/PCC
 熊x猫x频x道 2x4xHx直x播,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
 澳x视x澳x门,https://pi.0472.org/tv/asam.php?auth=231110
 星x空x卫x视,https://pi.0472.org/tv/startv.php?auth=231110
