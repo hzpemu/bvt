@@ -18,7 +18,7 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 翡x翠x台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡x翠x台1,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡x翠x台2w,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
-翡x翠x台3,https://tv.iill.top/MyTV/J#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡x翠x台3,https://tv.iill.top/MyTV/J#https://tv.iill.top/MyTV/JUHD#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 翡x翠x台4sl,https://sc2022.stream-link.org/tv2306.php?id=h02
 翡x翠x台5,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 翡x翠x台6,http://sz.l68.fun:9000/bysid/1
