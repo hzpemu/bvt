@@ -31,10 +31,10 @@ CxCTxV-10 科x教cm,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122573
 华x丽x台1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 华x丽x台2,https://epg.pw/stream/7f1ceee87aff62eb8a0680c34f3676fce9ed52bf39ae0aa2b7a3a2d542290719.ctv
 华x丽x台Thai,mitv://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
-无x线x新x闻,http://110.42.45.20:810/xgpd/gats.php?id=7#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8#https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
-无x线x新x闻1,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无x线x新x闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn#http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv#https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8#https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8#https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8
+无x线x新x闻1,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无x线x新x闻1f,http://live.cooltv.top/tv/tvb.php?id=0&sd
-无x线x新x闻2,http://live.cooltv.top/tv/tvb.php?id=1
+无x线x新x闻2,http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=1
 无x线x新x闻3,https://tv.iill.top/MyTV/C#https://tv.iill.top/tvb/4
 无x线x新x闻5,http://58.176.4.57:8800/play/a00d
 无x线x新x闻4sl,https://sc2022.stream-link.org/tv2306.php?id=h06
