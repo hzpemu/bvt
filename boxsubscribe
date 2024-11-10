@@ -5,3 +5,5 @@ https://毒盒.com/tv
 
 ok-yingshi https://github.com/FongMi/Release/tree/main/apk/release
 my-tv android https://github.com/yaoxieyoulei/mytv-android/releases
+
+"C:\Program Files\VideoLAN\VLC\vlc.exe" --http-user-agent='okhttp'
