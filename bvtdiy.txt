@@ -15,7 +15,7 @@ CxCTxV-10 科x教cm,http://[2409:8087:5e00:24::1e]:6060/000000001000/50000000100
 珠x江t3,http://gslbserv.itv.cmvideo.cn:80/1000000004000011655/index.m3u8?channel-id=FifastbLive&Contentid=1000000004000011655&livemode=1&stbId=3
 珠x江t4,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大x湾x区x卫x视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
-翡x翠x台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡x翠x台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡x翠x台1,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 翡x翠x台2w,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
 翡x翠x台3,https://tv.iill.top/MyTV/J#https://tv.iill.top/MyTV/JUHD#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
